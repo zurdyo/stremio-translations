@@ -18,12 +18,12 @@
 	
 	"SEARCH": "Ricerca",
 
-	"ADD_TO_LIB": "Aggiungi alla libreria",
-	"REMOVE_FROM_LIB": "Rimuovi dalla libreria",
+	"ADD_TO_LIB": "Aggiungi al libreria",
+	"REMOVE_FROM_LIB": "Rimuovi da libreria",
 	"TRAILER": "Trailer",
 	"WATCH_TRAILER": "Guarda Trailer",
 	"WATCH_NOW": "Guarda ora",
-	"SHOW": "Show",
+	"SHOW": "Mostra",
 
 	"IMDB_RATING": "Voto IMDb",
 	"YEAR": "Anno",
@@ -34,7 +34,7 @@
 	"AIRED": "Trasmesso",
 	"SEASONS": "Stagioni",
 	"GENRE": "Genere", 
-	"SUMMARY": "Sommario",
+	"SUMMARY": "Trama",
 	"SIMILAR": "Simile",
 	"UPCOMING": "Prossimamente",
 	"ENDED": "Finito",
@@ -90,7 +90,7 @@
 	"SORT_RECENT": "recenti",
 	"SORT_ALPHABET": "a-z",
 	"SORT_RATING": "voto",
-	"SORT_WATCHED": "visto",
+	"SORT_WATCHED": "visti",
 	"SORT_YEAR": "anno",
 
 	"DISCOVER_TOP": "Top",
@@ -189,9 +189,12 @@
 	"Music": "Musica",
 	"Biography": "Biografia",
 	"Documentary": "Documentario",
+	"History": "Storia"
 	"Sport": "Sport",
 	"Musical": "Musical",
 	"Western": "Western"
+	
+	"Show Film": "Mostra Film"
 
 
 }
